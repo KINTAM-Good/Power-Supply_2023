@@ -1,0 +1,2966 @@
+** Drc report for C:\Users\11023\OneDrive - 独立行政法人 国立高等専門学校機構\デスクトップ\memo\Robocon_2023\Circuit-2023(byKINTAM)\Power_circuit\Power_supply\Power_Supply\Power_Supply.kicad_pcb **
+** Created on 2023-08-26 11:46:41 **
+
+** Found 722 DRC violations **
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(89.4080 mm, 71.1200 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(89.4080 mm, 71.1200 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(89.4080 mm, 68.0720 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(89.4080 mm, 70.3580 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(89.4080 mm, 70.3580 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(89.4080 mm, 68.8340 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(89.4080 mm, 68.8340 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(89.4080 mm, 69.5960 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(89.4080 mm, 69.5960 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(90.1700 mm, 67.3100 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(90.1700 mm, 67.3100 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(90.1700 mm, 69.5960 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(90.1700 mm, 69.5960 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(90.1700 mm, 71.1200 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(90.1700 mm, 71.1200 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(90.1700 mm, 70.3580 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(90.1700 mm, 70.3580 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(90.1700 mm, 68.8340 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(90.1700 mm, 68.8340 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(90.1700 mm, 68.0720 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(90.1700 mm, 68.0720 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(90.9320 mm, 71.1200 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(90.9320 mm, 71.1200 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(90.9320 mm, 69.5960 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(90.9320 mm, 69.5960 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(90.9320 mm, 67.3100 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(90.9320 mm, 67.3100 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(90.9320 mm, 70.3580 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(90.9320 mm, 70.3580 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(90.9320 mm, 68.8340 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(90.9320 mm, 68.8340 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(90.9320 mm, 68.0720 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(90.9320 mm, 68.0720 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(91.6940 mm, 66.5480 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(91.6940 mm, 66.5480 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(91.6940 mm, 67.3100 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(91.6940 mm, 67.3100 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(91.6940 mm, 70.3580 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(91.6940 mm, 70.3580 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(91.6940 mm, 68.0720 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(91.6940 mm, 68.0720 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(91.6940 mm, 71.1200 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(91.6940 mm, 71.1200 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(91.6940 mm, 69.5960 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(91.6940 mm, 69.5960 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(91.6940 mm, 68.8340 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(91.6940 mm, 68.8340 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(92.4560 mm, 70.3580 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(92.4560 mm, 70.3580 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(92.4560 mm, 67.3100 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(92.4560 mm, 67.3100 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(92.4560 mm, 68.8340 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(92.4560 mm, 68.8340 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(92.4560 mm, 68.0720 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(92.4560 mm, 68.0720 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(92.4560 mm, 66.5480 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(92.4560 mm, 66.5480 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(92.4560 mm, 71.1200 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(92.4560 mm, 71.1200 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(92.4560 mm, 69.5960 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(92.4560 mm, 69.5960 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(93.2180 mm, 68.0720 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(93.2180 mm, 68.0720 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(93.2180 mm, 66.5480 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(93.2180 mm, 66.5480 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(93.2180 mm, 68.8340 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(93.2180 mm, 68.8340 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(93.2180 mm, 71.1200 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(93.2180 mm, 71.1200 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(93.2180 mm, 70.3580 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(93.2180 mm, 70.3580 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(93.2180 mm, 67.3100 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(93.2180 mm, 67.3100 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(93.2180 mm, 69.5960 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(93.2180 mm, 69.5960 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(93.9800 mm, 70.3580 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(93.9800 mm, 70.3580 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(93.9800 mm, 67.3100 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(93.9800 mm, 67.3100 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(93.9800 mm, 68.8340 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(93.9800 mm, 68.8340 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(93.9800 mm, 68.0720 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(93.9800 mm, 68.0720 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(93.9800 mm, 71.1200 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(93.9800 mm, 71.1200 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(93.9800 mm, 69.5960 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(93.9800 mm, 69.5960 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(93.9800 mm, 66.5480 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(93.9800 mm, 66.5480 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(94.7420 mm, 68.8340 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(94.7420 mm, 68.8340 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(94.7420 mm, 66.5480 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(94.7420 mm, 66.5480 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(94.7420 mm, 69.5960 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(94.7420 mm, 69.5960 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(94.7420 mm, 70.3580 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(94.7420 mm, 70.3580 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(94.7420 mm, 67.3100 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(94.7420 mm, 67.3100 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(94.7420 mm, 71.1200 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(94.7420 mm, 71.1200 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(94.7420 mm, 68.0720 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(94.7420 mm, 68.0720 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(99.3140 mm, 71.1200 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(99.3140 mm, 71.1200 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(100.8380 mm, 71.1200 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(100.8380 mm, 71.1200 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(101.6000 mm, 71.1200 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(101.6000 mm, 71.1200 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(100.0760 mm, 71.1200 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(100.0760 mm, 71.1200 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(97.7900 mm, 71.1200 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(97.7900 mm, 71.1200 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(97.0280 mm, 71.1200 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(97.0280 mm, 71.1200 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(98.5520 mm, 71.1200 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(98.5520 mm, 71.1200 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(96.2660 mm, 71.1200 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(96.2660 mm, 71.1200 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(95.5040 mm, 71.1200 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(95.5040 mm, 71.1200 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(98.5520 mm, 70.3580 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(98.5520 mm, 70.3580 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(95.5040 mm, 70.3580 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(95.5040 mm, 70.3580 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(97.0280 mm, 70.3580 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(97.0280 mm, 70.3580 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(99.3140 mm, 70.3580 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(99.3140 mm, 70.3580 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(96.2660 mm, 70.3580 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(96.2660 mm, 70.3580 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(100.0760 mm, 70.3580 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(100.0760 mm, 70.3580 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(97.7900 mm, 70.3580 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(97.7900 mm, 70.3580 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(100.8380 mm, 70.3580 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(100.8380 mm, 70.3580 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(101.6000 mm, 70.3580 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(101.6000 mm, 70.3580 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(100.0760 mm, 69.5960 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(100.0760 mm, 69.5960 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(96.2660 mm, 69.5960 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(96.2660 mm, 69.5960 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(97.0280 mm, 69.5960 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(97.0280 mm, 69.5960 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(101.6000 mm, 69.5960 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(101.6000 mm, 69.5960 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(95.5040 mm, 69.5960 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(95.5040 mm, 69.5960 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(100.8380 mm, 69.5960 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(100.8380 mm, 69.5960 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(99.3140 mm, 69.5960 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(99.3140 mm, 69.5960 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(98.5520 mm, 69.5960 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(98.5520 mm, 69.5960 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(97.7900 mm, 69.5960 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(97.7900 mm, 69.5960 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(98.5520 mm, 68.8340 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(98.5520 mm, 68.8340 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(97.7900 mm, 68.8340 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(97.7900 mm, 68.8340 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(100.8380 mm, 68.8340 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(100.8380 mm, 68.8340 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(99.3140 mm, 68.8340 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(99.3140 mm, 68.8340 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(97.0280 mm, 68.8340 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(97.0280 mm, 68.8340 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(95.5040 mm, 68.8340 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(95.5040 mm, 68.8340 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(100.0760 mm, 68.8340 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(100.0760 mm, 68.8340 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(96.2660 mm, 68.8340 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(96.2660 mm, 68.8340 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(101.6000 mm, 68.8340 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(101.6000 mm, 68.8340 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(100.8380 mm, 68.0720 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(100.8380 mm, 68.0720 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(100.0760 mm, 68.0720 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(100.0760 mm, 68.0720 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(99.3140 mm, 68.0720 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(99.3140 mm, 68.0720 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(97.0280 mm, 68.0720 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(97.0280 mm, 68.0720 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(96.2660 mm, 68.0720 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(96.2660 mm, 68.0720 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(101.6000 mm, 68.0720 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(101.6000 mm, 68.0720 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(95.5040 mm, 68.0720 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(95.5040 mm, 68.0720 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(98.5520 mm, 68.0720 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(98.5520 mm, 68.0720 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(97.7900 mm, 68.0720 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(97.7900 mm, 68.0720 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(100.8380 mm, 67.3100 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(100.8380 mm, 67.3100 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(100.0760 mm, 67.3100 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(100.0760 mm, 67.3100 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(99.3140 mm, 67.3100 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(99.3140 mm, 67.3100 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(98.5520 mm, 67.3100 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(98.5520 mm, 67.3100 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(97.7900 mm, 67.3100 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(97.7900 mm, 67.3100 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(97.0280 mm, 67.3100 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(97.0280 mm, 67.3100 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(96.2660 mm, 67.3100 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(96.2660 mm, 67.3100 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(95.5040 mm, 67.3100 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(95.5040 mm, 67.3100 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(101.6000 mm, 67.3100 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(101.6000 mm, 67.3100 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(101.6000 mm, 66.5480 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(101.6000 mm, 66.5480 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(100.8380 mm, 66.5480 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(100.8380 mm, 66.5480 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(100.0760 mm, 66.5480 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(100.0760 mm, 66.5480 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(99.3140 mm, 66.5480 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(99.3140 mm, 66.5480 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(98.5520 mm, 66.5480 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(98.5520 mm, 66.5480 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(97.7900 mm, 66.5480 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(97.7900 mm, 66.5480 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(97.0280 mm, 66.5480 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(97.0280 mm, 66.5480 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(96.2660 mm, 66.5480 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(96.2660 mm, 66.5480 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(95.5040 mm, 66.5480 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(95.5040 mm, 66.5480 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 65.7860 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(66.2940 mm, 85.0900 mm): Via [GND] on F.Cu - B.Cu
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(66.2940 mm, 85.0900 mm): Via [GND] on F.Cu - B.Cu
+    @(67.5640 mm, 82.8040 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(65.5320 mm, 84.3280 mm): Via [GND] on F.Cu - B.Cu
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(65.5320 mm, 84.3280 mm): Via [GND] on F.Cu - B.Cu
+    @(67.5640 mm, 82.8040 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(65.5320 mm, 85.0900 mm): Via [GND] on F.Cu - B.Cu
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(65.5320 mm, 85.0900 mm): Via [GND] on F.Cu - B.Cu
+    @(67.5640 mm, 82.8040 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(66.2940 mm, 84.3280 mm): Via [GND] on F.Cu - B.Cu
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(66.2940 mm, 84.3280 mm): Via [GND] on F.Cu - B.Cu
+    @(67.5640 mm, 82.8040 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(68.8340 mm, 87.3760 mm): Via [GND] on F.Cu - B.Cu
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(68.8340 mm, 87.3760 mm): Via [GND] on F.Cu - B.Cu
+    @(67.5640 mm, 82.8040 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(69.5960 mm, 87.3760 mm): Via [GND] on F.Cu - B.Cu
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(69.5960 mm, 87.3760 mm): Via [GND] on F.Cu - B.Cu
+    @(67.5640 mm, 82.8040 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(67.0560 mm, 89.6620 mm): Via [GND] on F.Cu - B.Cu
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1080 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(67.0560 mm, 89.6620 mm): Via [GND] on F.Cu - B.Cu
+    @(67.5640 mm, 82.8040 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(66.2940 mm, 88.1380 mm): Via [GND] on F.Cu - B.Cu
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(66.2940 mm, 88.1380 mm): Via [GND] on F.Cu - B.Cu
+    @(67.5640 mm, 82.8040 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(66.2940 mm, 90.4240 mm): Via [GND] on F.Cu - B.Cu
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(67.8180 mm, 90.4240 mm): Via [GND] on F.Cu - B.Cu
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(67.8180 mm, 89.6620 mm): Via [GND] on F.Cu - B.Cu
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1080 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(67.8180 mm, 89.6620 mm): Via [GND] on F.Cu - B.Cu
+    @(67.5640 mm, 82.8040 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(67.8180 mm, 88.9000 mm): Via [GND] on F.Cu - B.Cu
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(67.8180 mm, 88.9000 mm): Via [GND] on F.Cu - B.Cu
+    @(67.5640 mm, 82.8040 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(67.0560 mm, 88.9000 mm): Via [GND] on F.Cu - B.Cu
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(67.0560 mm, 88.9000 mm): Via [GND] on F.Cu - B.Cu
+    @(67.5640 mm, 82.8040 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(66.2940 mm, 88.9000 mm): Via [GND] on F.Cu - B.Cu
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(66.2940 mm, 88.9000 mm): Via [GND] on F.Cu - B.Cu
+    @(67.5640 mm, 82.8040 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(67.0560 mm, 90.4240 mm): Via [GND] on F.Cu - B.Cu
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(67.0560 mm, 88.1380 mm): Via [GND] on F.Cu - B.Cu
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(67.0560 mm, 88.1380 mm): Via [GND] on F.Cu - B.Cu
+    @(67.5640 mm, 82.8040 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(66.2940 mm, 89.6620 mm): Via [GND] on F.Cu - B.Cu
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1080 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(66.2940 mm, 89.6620 mm): Via [GND] on F.Cu - B.Cu
+    @(67.5640 mm, 82.8040 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(67.8180 mm, 88.1380 mm): Via [GND] on F.Cu - B.Cu
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(67.8180 mm, 88.1380 mm): Via [GND] on F.Cu - B.Cu
+    @(67.5640 mm, 82.8040 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(67.8180 mm, 87.3760 mm): Via [GND] on F.Cu - B.Cu
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(67.8180 mm, 87.3760 mm): Via [GND] on F.Cu - B.Cu
+    @(67.5640 mm, 82.8040 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(67.0560 mm, 87.3760 mm): Via [GND] on F.Cu - B.Cu
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(67.0560 mm, 87.3760 mm): Via [GND] on F.Cu - B.Cu
+    @(67.5640 mm, 82.8040 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(66.2940 mm, 87.3760 mm): Via [GND] on F.Cu - B.Cu
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(66.2940 mm, 87.3760 mm): Via [GND] on F.Cu - B.Cu
+    @(67.5640 mm, 82.8040 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(64.0080 mm, 87.3760 mm): Via [GND] on F.Cu - B.Cu
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(64.0080 mm, 87.3760 mm): Via [GND] on F.Cu - B.Cu
+    @(67.5640 mm, 82.8040 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(64.7700 mm, 87.3760 mm): Via [GND] on F.Cu - B.Cu
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(64.7700 mm, 87.3760 mm): Via [GND] on F.Cu - B.Cu
+    @(67.5640 mm, 82.8040 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(65.5320 mm, 87.3760 mm): Via [GND] on F.Cu - B.Cu
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(65.5320 mm, 87.3760 mm): Via [GND] on F.Cu - B.Cu
+    @(67.5640 mm, 82.8040 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(64.0080 mm, 88.9000 mm): Via [GND] on F.Cu - B.Cu
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(64.0080 mm, 88.9000 mm): Via [GND] on F.Cu - B.Cu
+    @(67.5640 mm, 82.8040 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(63.2460 mm, 89.6620 mm): Via [GND] on F.Cu - B.Cu
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1080 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(63.2460 mm, 89.6620 mm): Via [GND] on F.Cu - B.Cu
+    @(67.5640 mm, 82.8040 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(64.7700 mm, 88.9000 mm): Via [GND] on F.Cu - B.Cu
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(64.7700 mm, 88.9000 mm): Via [GND] on F.Cu - B.Cu
+    @(67.5640 mm, 82.8040 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(64.7700 mm, 89.6620 mm): Via [GND] on F.Cu - B.Cu
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1080 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(64.7700 mm, 89.6620 mm): Via [GND] on F.Cu - B.Cu
+    @(67.5640 mm, 82.8040 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(63.2460 mm, 88.9000 mm): Via [GND] on F.Cu - B.Cu
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(63.2460 mm, 88.9000 mm): Via [GND] on F.Cu - B.Cu
+    @(67.5640 mm, 82.8040 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(64.0080 mm, 89.6620 mm): Via [GND] on F.Cu - B.Cu
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1080 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(64.0080 mm, 89.6620 mm): Via [GND] on F.Cu - B.Cu
+    @(67.5640 mm, 82.8040 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(65.5320 mm, 89.6620 mm): Via [GND] on F.Cu - B.Cu
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1080 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(65.5320 mm, 89.6620 mm): Via [GND] on F.Cu - B.Cu
+    @(67.5640 mm, 82.8040 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(65.5320 mm, 88.9000 mm): Via [GND] on F.Cu - B.Cu
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(65.5320 mm, 88.9000 mm): Via [GND] on F.Cu - B.Cu
+    @(67.5640 mm, 82.8040 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(64.7700 mm, 90.4240 mm): Via [GND] on F.Cu - B.Cu
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(63.2460 mm, 88.1380 mm): Via [GND] on F.Cu - B.Cu
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(63.2460 mm, 88.1380 mm): Via [GND] on F.Cu - B.Cu
+    @(67.5640 mm, 82.8040 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(64.7700 mm, 88.1380 mm): Via [GND] on F.Cu - B.Cu
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(64.7700 mm, 88.1380 mm): Via [GND] on F.Cu - B.Cu
+    @(67.5640 mm, 82.8040 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(64.0080 mm, 88.1380 mm): Via [GND] on F.Cu - B.Cu
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(64.0080 mm, 88.1380 mm): Via [GND] on F.Cu - B.Cu
+    @(67.5640 mm, 82.8040 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(65.5320 mm, 88.1380 mm): Via [GND] on F.Cu - B.Cu
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(65.5320 mm, 88.1380 mm): Via [GND] on F.Cu - B.Cu
+    @(67.5640 mm, 82.8040 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(64.0080 mm, 90.4240 mm): Via [GND] on F.Cu - B.Cu
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(65.5320 mm, 90.4240 mm): Via [GND] on F.Cu - B.Cu
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(74.4220 mm, 85.8520 mm): Via [GND] on F.Cu - B.Cu
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(73.6600 mm, 85.8520 mm): Via [GND] on F.Cu - B.Cu
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(73.6600 mm, 86.6140 mm): Via [GND] on F.Cu - B.Cu
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(74.4220 mm, 86.6140 mm): Via [GND] on F.Cu - B.Cu
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(75.1840 mm, 86.6140 mm): Via [GND] on F.Cu - B.Cu
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(75.1840 mm, 87.3760 mm): Via [GND] on F.Cu - B.Cu
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(74.4220 mm, 87.3760 mm): Via [GND] on F.Cu - B.Cu
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(75.9460 mm, 87.3760 mm): Via [GND] on F.Cu - B.Cu
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(73.6600 mm, 87.3760 mm): Via [GND] on F.Cu - B.Cu
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(65.2780 mm, 86.6140 mm): Via [GND] on F.Cu - B.Cu
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(65.2780 mm, 86.6140 mm): Via [GND] on F.Cu - B.Cu
+    @(67.5640 mm, 82.8040 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(64.5160 mm, 86.6140 mm): Via [GND] on F.Cu - B.Cu
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(64.5160 mm, 86.6140 mm): Via [GND] on F.Cu - B.Cu
+    @(67.5640 mm, 82.8040 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(66.0400 mm, 85.8520 mm): Via [GND] on F.Cu - B.Cu
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(66.0400 mm, 85.8520 mm): Via [GND] on F.Cu - B.Cu
+    @(67.5640 mm, 82.8040 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(66.0400 mm, 86.6140 mm): Via [GND] on F.Cu - B.Cu
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(66.0400 mm, 86.6140 mm): Via [GND] on F.Cu - B.Cu
+    @(67.5640 mm, 82.8040 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(65.2780 mm, 85.8520 mm): Via [GND] on F.Cu - B.Cu
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(65.2780 mm, 85.8520 mm): Via [GND] on F.Cu - B.Cu
+    @(67.5640 mm, 82.8040 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(66.8020 mm, 85.8520 mm): Via [GND] on F.Cu - B.Cu
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(66.8020 mm, 85.8520 mm): Via [GND] on F.Cu - B.Cu
+    @(67.5640 mm, 82.8040 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(66.8020 mm, 86.6140 mm): Via [GND] on F.Cu - B.Cu
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(66.8020 mm, 86.6140 mm): Via [GND] on F.Cu - B.Cu
+    @(67.5640 mm, 82.8040 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(67.8180 mm, 85.0900 mm): Via [GND] on F.Cu - B.Cu
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(67.8180 mm, 85.0900 mm): Via [GND] on F.Cu - B.Cu
+    @(67.5640 mm, 82.8040 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(67.0560 mm, 85.0900 mm): Via [GND] on F.Cu - B.Cu
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(67.0560 mm, 85.0900 mm): Via [GND] on F.Cu - B.Cu
+    @(67.5640 mm, 82.8040 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(68.5800 mm, 85.0900 mm): Via [GND] on F.Cu - B.Cu
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(68.5800 mm, 85.0900 mm): Via [GND] on F.Cu - B.Cu
+    @(67.5640 mm, 82.8040 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(67.8180 mm, 84.3280 mm): Via [GND] on F.Cu - B.Cu
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(67.8180 mm, 84.3280 mm): Via [GND] on F.Cu - B.Cu
+    @(67.5640 mm, 82.8040 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(69.3420 mm, 84.3280 mm): Via [GND] on F.Cu - B.Cu
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(69.3420 mm, 84.3280 mm): Via [GND] on F.Cu - B.Cu
+    @(67.5640 mm, 82.8040 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(68.5800 mm, 84.3280 mm): Via [GND] on F.Cu - B.Cu
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(68.5800 mm, 84.3280 mm): Via [GND] on F.Cu - B.Cu
+    @(67.5640 mm, 82.8040 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(67.0560 mm, 84.3280 mm): Via [GND] on F.Cu - B.Cu
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(67.0560 mm, 84.3280 mm): Via [GND] on F.Cu - B.Cu
+    @(67.5640 mm, 82.8040 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(69.3420 mm, 85.0900 mm): Via [GND] on F.Cu - B.Cu
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(69.3420 mm, 85.0900 mm): Via [GND] on F.Cu - B.Cu
+    @(67.5640 mm, 82.8040 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(69.0880 mm, 85.8520 mm): Via [GND] on F.Cu - B.Cu
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(69.0880 mm, 85.8520 mm): Via [GND] on F.Cu - B.Cu
+    @(67.5640 mm, 82.8040 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(69.8500 mm, 85.8520 mm): Via [GND] on F.Cu - B.Cu
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(69.8500 mm, 85.8520 mm): Via [GND] on F.Cu - B.Cu
+    @(67.5640 mm, 82.8040 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(67.5640 mm, 85.8520 mm): Via [GND] on F.Cu - B.Cu
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(67.5640 mm, 85.8520 mm): Via [GND] on F.Cu - B.Cu
+    @(67.5640 mm, 82.8040 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(69.0880 mm, 86.6140 mm): Via [GND] on F.Cu - B.Cu
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(69.0880 mm, 86.6140 mm): Via [GND] on F.Cu - B.Cu
+    @(67.5640 mm, 82.8040 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(69.8500 mm, 86.6140 mm): Via [GND] on F.Cu - B.Cu
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(69.8500 mm, 86.6140 mm): Via [GND] on F.Cu - B.Cu
+    @(67.5640 mm, 82.8040 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(68.3260 mm, 86.6140 mm): Via [GND] on F.Cu - B.Cu
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(68.3260 mm, 86.6140 mm): Via [GND] on F.Cu - B.Cu
+    @(67.5640 mm, 82.8040 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(67.5640 mm, 86.6140 mm): Via [GND] on F.Cu - B.Cu
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(67.5640 mm, 86.6140 mm): Via [GND] on F.Cu - B.Cu
+    @(67.5640 mm, 82.8040 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(68.3260 mm, 85.8520 mm): Via [GND] on F.Cu - B.Cu
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(68.3260 mm, 85.8520 mm): Via [GND] on F.Cu - B.Cu
+    @(67.5640 mm, 82.8040 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(72.1360 mm, 85.8520 mm): Via [GND] on F.Cu - B.Cu
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(70.6120 mm, 86.6140 mm): Via [GND] on F.Cu - B.Cu
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1080 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(70.6120 mm, 86.6140 mm): Via [GND] on F.Cu - B.Cu
+    @(67.5640 mm, 82.8040 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(71.3740 mm, 85.8520 mm): Via [GND] on F.Cu - B.Cu
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(72.1360 mm, 86.6140 mm): Via [GND] on F.Cu - B.Cu
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(71.3740 mm, 86.6140 mm): Via [GND] on F.Cu - B.Cu
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(72.8980 mm, 86.6140 mm): Via [GND] on F.Cu - B.Cu
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(72.8980 mm, 85.8520 mm): Via [GND] on F.Cu - B.Cu
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(70.6120 mm, 85.8520 mm): Via [GND] on F.Cu - B.Cu
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1080 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(70.6120 mm, 85.8520 mm): Via [GND] on F.Cu - B.Cu
+    @(67.5640 mm, 82.8040 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(71.3740 mm, 87.3760 mm): Via [GND] on F.Cu - B.Cu
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(70.3580 mm, 88.1380 mm): Via [GND] on F.Cu - B.Cu
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(70.3580 mm, 88.1380 mm): Via [GND] on F.Cu - B.Cu
+    @(67.5640 mm, 82.8040 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(72.1360 mm, 87.3760 mm): Via [GND] on F.Cu - B.Cu
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(71.8820 mm, 88.1380 mm): Via [GND] on F.Cu - B.Cu
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(70.6120 mm, 87.3760 mm): Via [GND] on F.Cu - B.Cu
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1080 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(70.6120 mm, 87.3760 mm): Via [GND] on F.Cu - B.Cu
+    @(67.5640 mm, 82.8040 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(71.1200 mm, 88.1380 mm): Via [GND] on F.Cu - B.Cu
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(72.6440 mm, 88.1380 mm): Via [GND] on F.Cu - B.Cu
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(72.8980 mm, 87.3760 mm): Via [GND] on F.Cu - B.Cu
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(72.6440 mm, 90.4240 mm): Via [GND] on F.Cu - B.Cu
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(71.1200 mm, 90.4240 mm): Via [GND] on F.Cu - B.Cu
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(71.8820 mm, 90.4240 mm): Via [GND] on F.Cu - B.Cu
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(71.8820 mm, 88.9000 mm): Via [GND] on F.Cu - B.Cu
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(71.1200 mm, 88.9000 mm): Via [GND] on F.Cu - B.Cu
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(72.6440 mm, 89.6620 mm): Via [GND] on F.Cu - B.Cu
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(71.8820 mm, 89.6620 mm): Via [GND] on F.Cu - B.Cu
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(70.3580 mm, 89.6620 mm): Via [GND] on F.Cu - B.Cu
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(72.6440 mm, 88.9000 mm): Via [GND] on F.Cu - B.Cu
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(71.1200 mm, 89.6620 mm): Via [GND] on F.Cu - B.Cu
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(70.3580 mm, 88.9000 mm): Via [GND] on F.Cu - B.Cu
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(76.2000 mm, 88.1380 mm): Via [GND] on F.Cu - B.Cu
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(75.4380 mm, 88.1380 mm): Via [GND] on F.Cu - B.Cu
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(74.6760 mm, 88.1380 mm): Via [GND] on F.Cu - B.Cu
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(76.9620 mm, 88.9000 mm): Via [GND] on F.Cu - B.Cu
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(76.2000 mm, 88.9000 mm): Via [GND] on F.Cu - B.Cu
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(74.6760 mm, 88.9000 mm): Via [GND] on F.Cu - B.Cu
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(75.4380 mm, 88.9000 mm): Via [GND] on F.Cu - B.Cu
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(74.6760 mm, 90.4240 mm): Via [GND] on F.Cu - B.Cu
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(74.6760 mm, 89.6620 mm): Via [GND] on F.Cu - B.Cu
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(75.4380 mm, 89.6620 mm): Via [GND] on F.Cu - B.Cu
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(76.2000 mm, 89.6620 mm): Via [GND] on F.Cu - B.Cu
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(76.9620 mm, 89.6620 mm): Via [GND] on F.Cu - B.Cu
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(75.4380 mm, 90.4240 mm): Via [GND] on F.Cu - B.Cu
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(76.2000 mm, 90.4240 mm): Via [GND] on F.Cu - B.Cu
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(65.7860 mm, 89.4080 mm): Track [GND] on B.Cu, length 1.0776 mm
+    @(67.5640 mm, 82.8040 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(74.6760 mm, 89.4080 mm): Track [GND] on B.Cu, length 8.8900 mm
+    @(67.5640 mm, 82.8040 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(71.3740 mm, 86.1060 mm): Track [GND] on B.Cu, length 4.6697 mm
+    @(67.5640 mm, 82.8040 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(69.3420 mm, 86.1060 mm): Track [GND] on B.Cu, length 2.0320 mm
+    @(67.5640 mm, 82.8040 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(67.3100 mm, 84.0740 mm): Track [GND] on B.Cu, length 2.8737 mm
+    @(67.5640 mm, 82.8040 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(67.3100 mm, 78.9940 mm): Track [GND] on B.Cu, length 5.0800 mm
+    @(67.5640 mm, 82.8040 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(69.7230 mm, 86.7410 mm): Track [GND] on F.Cu, length 0.1796 mm
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(69.5960 mm, 86.7410 mm): Track [GND] on F.Cu, length 0.1270 mm
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(69.5960 mm, 86.7410 mm): Track [GND] on F.Cu, length 4.1910 mm
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(69.8500 mm, 86.7410 mm): Track [GND] on F.Cu, length 0.2540 mm
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(69.9770 mm, 86.7410 mm): Track [GND] on F.Cu, length 0.1796 mm
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(69.8500 mm, 86.6140 mm): Track [GND] on F.Cu, length 0.1270 mm
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(69.8500 mm, 85.7450 mm): Track [GND] on F.Cu, length 0.8690 mm
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(70.1040 mm, 86.7410 mm): Track [GND] on F.Cu, length 0.2540 mm
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(70.1040 mm, 86.7410 mm): Track [GND] on F.Cu, length 0.1270 mm
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(70.2310 mm, 86.7410 mm): Track [GND] on F.Cu, length 0.1270 mm
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(71.1200 mm, 84.4750 mm): Track [GND] on F.Cu, length 1.7961 mm
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(98.6800 mm, 68.3250 mm): Track [Moter_IN] on F.Cu, length 4.8508 mm
+    @(101.6000 mm, 65.7860 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(98.6800 mm, 51.4500 mm): Track [Moter_IN] on F.Cu, length 16.8750 mm
+    @(101.6000 mm, 65.7860 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(67.3100 mm, 95.8850 mm): Track [Moter_OUT] on F.Cu, length 8.8900 mm
+    @(63.3730 mm, 92.3290 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(120.1870 mm, 102.6980 mm): Track [Moter_OUT] on F.Cu, length 2.3310 mm
+    @(63.3730 mm, 92.3290 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(122.5550 mm, 100.3300 mm): Track [Moter_OUT] on F.Cu, length 3.3489 mm
+    @(63.3730 mm, 92.3290 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0674 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(122.5550 mm, 100.3300 mm): Track [Moter_OUT] on F.Cu, length 15.3240 mm
+    @(63.3730 mm, 92.3290 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(122.5550 mm, 102.2350 mm): Track [Moter_OUT] on F.Cu, length 1.9050 mm
+    @(63.3730 mm, 92.3290 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(113.0300 mm, 100.7930 mm): Track [Moter_OUT] on F.Cu, length 2.6941 mm
+    @(63.3730 mm, 92.3290 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0095 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(113.0300 mm, 100.3300 mm): Track [Moter_OUT] on F.Cu, length 0.4630 mm
+    @(63.3730 mm, 92.3290 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(114.9350 mm, 102.6980 mm): Track [Moter_OUT] on F.Cu, length 2.9210 mm
+    @(63.3730 mm, 92.3290 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(113.4930 mm, 102.6980 mm): Track [Moter_OUT] on F.Cu, length 1.4420 mm
+    @(63.3730 mm, 92.3290 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(113.0300 mm, 100.3300 mm): Track [Moter_OUT] on F.Cu, length 1.9050 mm
+    @(63.3730 mm, 92.3290 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(118.3190 mm, 102.2350 mm): Track [Moter_OUT] on F.Cu, length 0.6548 mm
+    @(63.3730 mm, 92.3290 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(122.5550 mm, 102.2350 mm): Track [Moter_OUT] on F.Cu, length 4.2360 mm
+    @(63.3730 mm, 92.3290 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(122.5550 mm, 103.9300 mm): Track [Moter_OUT] on F.Cu, length 1.6950 mm
+    @(63.3730 mm, 92.3290 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(113.0300 mm, 102.2350 mm): Track [Moter_OUT] on F.Cu, length 1.6510 mm
+    @(63.3730 mm, 92.3290 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(113.0300 mm, 102.2350 mm): Track [Moter_OUT] on F.Cu, length 0.6548 mm
+    @(63.3730 mm, 92.3290 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(106.6800 mm, 100.3300 mm): Track [Moter_OUT] on F.Cu, length 2.6941 mm
+    @(63.3730 mm, 92.3290 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(102.4810 mm, 102.2350 mm): Track [Moter_OUT] on F.Cu, length 2.2940 mm
+    @(63.3730 mm, 92.3290 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(104.7750 mm, 102.2350 mm): Track [Moter_OUT] on F.Cu, length 1.9050 mm
+    @(63.3730 mm, 92.3290 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(106.6800 mm, 102.2350 mm): Track [Moter_OUT] on F.Cu, length 2.5400 mm
+    @(63.3730 mm, 92.3290 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(102.0180 mm, 102.6980 mm): Track [Moter_OUT] on F.Cu, length 0.6548 mm
+    @(63.3730 mm, 92.3290 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(106.6800 mm, 103.2510 mm): Track [Moter_OUT] on F.Cu, length 1.0160 mm
+    @(63.3730 mm, 92.3290 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(97.1550 mm, 100.3300 mm): Track [Moter_OUT] on F.Cu, length 0.4630 mm
+    @(63.3730 mm, 92.3290 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(97.6180 mm, 102.6980 mm): Track [Moter_OUT] on F.Cu, length 1.4420 mm
+    @(63.3730 mm, 92.3290 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(97.1550 mm, 100.7930 mm): Track [Moter_OUT] on F.Cu, length 2.6941 mm
+    @(63.3730 mm, 92.3290 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(97.1550 mm, 100.3300 mm): Track [Moter_OUT] on F.Cu, length 15.3240 mm
+    @(63.3730 mm, 92.3290 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(99.0600 mm, 102.6980 mm): Track [Moter_OUT] on F.Cu, length 2.9580 mm
+    @(63.3730 mm, 92.3290 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(97.1550 mm, 102.2350 mm): Track [Moter_OUT] on F.Cu, length 1.9050 mm
+    @(63.3730 mm, 92.3290 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(97.1550 mm, 102.2350 mm): Track [Moter_OUT] on F.Cu, length 0.6548 mm
+    @(63.3730 mm, 92.3290 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(97.1550 mm, 102.4830 mm): Track [Moter_OUT] on F.Cu, length 2.6941 mm
+    @(63.3730 mm, 92.3290 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(97.1550 mm, 104.3880 mm): Track [Moter_OUT] on F.Cu, length 1.9050 mm
+    @(63.3730 mm, 92.3290 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(97.1550 mm, 102.2350 mm): Track [Moter_OUT] on F.Cu, length 0.2480 mm
+    @(63.3730 mm, 92.3290 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(95.2500 mm, 104.3880 mm): Track [Moter_OUT] on F.Cu, length 1.2700 mm
+    @(63.3730 mm, 92.3290 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(97.1550 mm, 104.3880 mm): Track [Moter_OUT] on F.Cu, length 2.1530 mm
+    @(63.3730 mm, 92.3290 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(92.3230 mm, 104.3880 mm): Track [Moter_OUT] on F.Cu, length 1.6570 mm
+    @(63.3730 mm, 92.3290 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(90.8050 mm, 102.8700 mm): Track [Moter_OUT] on F.Cu, length 2.1468 mm
+    @(63.3730 mm, 92.3290 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(86.3600 mm, 102.6980 mm): Track [Moter_OUT] on F.Cu, length 4.2730 mm
+    @(63.3730 mm, 92.3290 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(90.8050 mm, 102.8700 mm): Track [Moter_OUT] on F.Cu, length 17.8640 mm
+    @(63.3730 mm, 92.3290 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(90.6330 mm, 102.6980 mm): Track [Moter_OUT] on F.Cu, length 0.2432 mm
+    @(63.3730 mm, 92.3290 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(90.8050 mm, 104.3880 mm): Track [Moter_OUT] on F.Cu, length 1.5180 mm
+    @(63.3730 mm, 92.3290 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(90.8050 mm, 104.3880 mm): Track [Moter_OUT] on F.Cu, length 3.1750 mm
+    @(63.3730 mm, 92.3290 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(88.0500 mm, 104.3880 mm): Track [Moter_OUT] on F.Cu, length 2.7550 mm
+    @(63.3730 mm, 92.3290 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(100.3280 mm, 104.3880 mm): Track [Moter_OUT] on F.Cu, length 3.1730 mm
+    @(63.3730 mm, 92.3290 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(138.4300 mm, 103.6760 mm): Track [Moter_OUT] on F.Cu, length 18.0350 mm
+    @(63.3730 mm, 92.3290 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(138.4300 mm, 103.6760 mm): Track [Moter_OUT] on F.Cu, length 3.8480 mm
+    @(63.3730 mm, 92.3290 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(141.0840 mm, 103.6760 mm): Track [Moter_OUT] on F.Cu, length 2.6540 mm
+    @(63.3730 mm, 92.3290 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(122.5550 mm, 103.9300 mm): Track [Moter_OUT] on F.Cu, length 2.9080 mm
+    @(63.3730 mm, 92.3290 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(119.0880 mm, 103.9300 mm): Track [Moter_OUT] on F.Cu, length 3.4670 mm
+    @(63.3730 mm, 92.3290 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(106.0450 mm, 103.8860 mm): Track [Moter_OUT] on F.Cu, length 0.8980 mm
+    @(63.3730 mm, 92.3290 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(106.0450 mm, 103.8860 mm): Track [Moter_OUT] on F.Cu, length 2.8390 mm
+    @(63.3730 mm, 92.3290 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(109.0800 mm, 103.8860 mm): Track [Moter_OUT] on F.Cu, length 3.0350 mm
+    @(63.3730 mm, 92.3290 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(103.2060 mm, 103.8860 mm): Track [Moter_OUT] on F.Cu, length 1.6801 mm
+    @(63.3730 mm, 92.3290 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(113.0300 mm, 103.8860 mm): Track [Moter_OUT] on F.Cu, length 3.9500 mm
+    @(63.3730 mm, 92.3290 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(116.6680 mm, 103.8860 mm): Track [Moter_OUT] on F.Cu, length 3.6380 mm
+    @(63.3730 mm, 92.3290 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(128.9050 mm, 103.9300 mm): Track [Moter_OUT] on F.Cu, length 3.4420 mm
+    @(63.3730 mm, 92.3290 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(128.9050 mm, 85.0060 mm): Track [Moter_OUT] on F.Cu, length 18.9240 mm
+    @(63.3730 mm, 92.3290 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(132.3720 mm, 103.9300 mm): Track [Moter_OUT] on F.Cu, length 3.4670 mm
+    @(63.3730 mm, 92.3290 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(79.8380 mm, 102.6980 mm): Track [Moter_OUT] on F.Cu, length 6.5220 mm
+    @(63.3730 mm, 92.3290 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(77.4700 mm, 100.3300 mm): Track [Moter_OUT] on F.Cu, length 3.3489 mm
+    @(63.3730 mm, 92.3290 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(77.4700 mm, 97.3300 mm): Track [Moter_OUT] on F.Cu, length 3.0000 mm
+    @(63.3730 mm, 92.3290 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(86.3600 mm, 102.6980 mm): Track [Moter_OUT] on F.Cu, length 2.3900 mm
+    @(63.3730 mm, 92.3290 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(102.0180 mm, 102.6980 mm): Track [Moter_OUT] on F.Cu, length 2.3900 mm
+    @(63.3730 mm, 92.3290 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(117.8560 mm, 102.6980 mm): Track [Moter_OUT] on F.Cu, length 1.7423 mm
+    @(63.3730 mm, 92.3290 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(117.8560 mm, 102.6980 mm): Track [Moter_OUT] on F.Cu, length 1.6801 mm
+    @(63.3730 mm, 92.3290 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(133.6040 mm, 102.6980 mm): Track [Moter_OUT] on F.Cu, length 1.7423 mm
+    @(63.3730 mm, 92.3290 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(134.5820 mm, 103.6760 mm): Track [Moter_OUT] on F.Cu, length 1.3831 mm
+    @(63.3730 mm, 92.3290 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(145.1880 mm, 74.8060 mm): Track [Moter_IN] on B.Cu, length 7.6566 mm
+    @(152.4000 mm, 70.4850 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(142.9820 mm, 74.8060 mm): Track [Moter_IN] on B.Cu, length 2.2060 mm
+    @(152.4000 mm, 70.4850 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(142.7510 mm, 74.8060 mm): Track [Moter_IN] on B.Cu, length 5.2128 mm
+    @(152.4000 mm, 70.4850 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(139.0650 mm, 71.1200 mm): Track [Moter_IN] on B.Cu, length 55.2650 mm
+    @(101.6000 mm, 65.7860 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(83.8000 mm, 71.1200 mm): Track [Moter_IN] on B.Cu, length 5.3882 mm
+    @(152.4000 mm, 70.4850 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(142.9820 mm, 74.8060 mm): Track [Moter_IN] on B.Cu, length 0.2310 mm
+    @(152.4000 mm, 70.4850 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(80.0100 mm, 74.9300 mm): Track [Moter_IN] on B.Cu, length 6.2862 mm
+    @(152.4000 mm, 70.4850 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(79.9900 mm, 74.9300 mm): Track [Moter_IN] on B.Cu, length 0.0200 mm
+    @(152.4000 mm, 70.4850 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(95.6480 mm, 74.9300 mm): Track [Moter_IN] on B.Cu, length 6.8490 mm
+    @(152.4000 mm, 70.4850 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(111.4860 mm, 74.9300 mm): Track [Moter_IN] on B.Cu, length 6.7967 mm
+    @(152.4000 mm, 70.4850 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(127.2340 mm, 74.9300 mm): Track [Moter_IN] on B.Cu, length 7.5151 mm
+    @(152.4000 mm, 70.4850 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(142.9820 mm, 74.8060 mm): Track [Moter_IN] on B.Cu, length 7.3355 mm
+    @(152.4000 mm, 70.4850 mm): Polygon on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1810 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(71.0510 mm, 91.3130 mm): Track [Net-(Q1-G)] on F.Cu, length 5.6570 mm
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+[courtyards_overlap]: Courtyards overlap
+    Rule: board setup constraints courtyard; Severity: error
+    @(63.5000 mm, 81.3000 mm): Footprint R1
+    @(70.7600 mm, 74.6960 mm): Footprint J6
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.3000 mm; actual 0.2810 mm)
+    Rule: board setup constraints edge; Severity: error
+    @(60.7060 mm, 45.7200 mm): Rect on Edge.Cuts
+    @(63.3730 mm, 92.3290 mm): Polygon on F.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(89.4080 mm, 71.1200 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(89.4080 mm, 70.3580 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(89.4080 mm, 71.1200 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(90.1700 mm, 71.1200 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(89.4080 mm, 68.0720 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(89.4080 mm, 68.8340 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(89.4080 mm, 68.0720 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(90.1700 mm, 68.0720 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(89.4080 mm, 70.3580 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(89.4080 mm, 69.5960 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(89.4080 mm, 70.3580 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(90.1700 mm, 70.3580 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(89.4080 mm, 68.8340 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(89.4080 mm, 69.5960 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(89.4080 mm, 68.8340 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(90.1700 mm, 68.8340 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(89.4080 mm, 69.5960 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(90.1700 mm, 69.5960 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(90.1700 mm, 67.3100 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(90.1700 mm, 68.0720 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(90.1700 mm, 67.3100 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(90.9320 mm, 67.3100 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(90.1700 mm, 69.5960 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(90.1700 mm, 70.3580 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(90.1700 mm, 69.5960 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(90.1700 mm, 68.8340 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(90.1700 mm, 69.5960 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(90.9320 mm, 69.5960 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(90.1700 mm, 71.1200 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(90.1700 mm, 70.3580 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(90.1700 mm, 71.1200 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(90.9320 mm, 71.1200 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(90.1700 mm, 70.3580 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(90.9320 mm, 70.3580 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(90.1700 mm, 68.8340 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(90.9320 mm, 68.8340 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(90.1700 mm, 68.8340 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(90.1700 mm, 68.0720 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(90.1700 mm, 68.0720 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(90.9320 mm, 68.0720 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(90.9320 mm, 71.1200 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(90.9320 mm, 70.3580 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(90.9320 mm, 71.1200 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(91.6940 mm, 71.1200 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(90.9320 mm, 69.5960 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(90.9320 mm, 68.8340 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(90.9320 mm, 69.5960 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(90.9320 mm, 70.3580 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(90.9320 mm, 69.5960 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(91.6940 mm, 69.5960 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(90.9320 mm, 67.3100 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(90.9320 mm, 68.0720 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(90.9320 mm, 67.3100 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(91.6940 mm, 67.3100 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(90.9320 mm, 70.3580 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(91.6940 mm, 70.3580 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(90.9320 mm, 68.8340 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(90.9320 mm, 68.0720 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(90.9320 mm, 68.8340 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(91.6940 mm, 68.8340 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(90.9320 mm, 68.0720 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(91.6940 mm, 68.0720 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(91.6940 mm, 66.5480 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(91.6940 mm, 67.3100 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(91.6940 mm, 66.5480 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(92.4560 mm, 66.5480 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(91.6940 mm, 67.3100 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(91.6940 mm, 68.0720 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(91.6940 mm, 67.3100 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(92.4560 mm, 67.3100 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(91.6940 mm, 70.3580 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(91.6940 mm, 69.5960 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(91.6940 mm, 70.3580 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(91.6940 mm, 71.1200 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(91.6940 mm, 70.3580 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(92.4560 mm, 70.3580 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(91.6940 mm, 68.0720 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(91.6940 mm, 68.8340 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(91.6940 mm, 68.0720 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(92.4560 mm, 68.0720 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(91.6940 mm, 71.1200 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(92.4560 mm, 71.1200 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(91.6940 mm, 69.5960 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(91.6940 mm, 68.8340 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(91.6940 mm, 69.5960 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(92.4560 mm, 69.5960 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(91.6940 mm, 68.8340 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(92.4560 mm, 68.8340 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(92.4560 mm, 70.3580 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(92.4560 mm, 71.1200 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(92.4560 mm, 70.3580 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(93.2180 mm, 70.3580 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(92.4560 mm, 70.3580 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(92.4560 mm, 69.5960 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(92.4560 mm, 67.3100 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(92.4560 mm, 68.0720 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(92.4560 mm, 67.3100 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(92.4560 mm, 66.5480 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(92.4560 mm, 67.3100 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(93.2180 mm, 67.3100 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(92.4560 mm, 68.8340 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(92.4560 mm, 68.0720 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(92.4560 mm, 68.8340 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(93.2180 mm, 68.8340 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(92.4560 mm, 68.8340 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(92.4560 mm, 69.5960 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(92.4560 mm, 68.0720 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(93.2180 mm, 68.0720 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(92.4560 mm, 66.5480 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(93.2180 mm, 66.5480 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(92.4560 mm, 71.1200 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(93.2180 mm, 71.1200 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(92.4560 mm, 69.5960 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(93.2180 mm, 69.5960 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(93.2180 mm, 68.0720 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(93.2180 mm, 68.8340 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(93.2180 mm, 68.0720 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(93.2180 mm, 67.3100 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(93.2180 mm, 68.0720 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(93.9800 mm, 68.0720 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(93.2180 mm, 66.5480 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(93.2180 mm, 67.3100 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(93.2180 mm, 66.5480 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(93.9800 mm, 66.5480 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(93.2180 mm, 68.8340 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(93.2180 mm, 69.5960 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(93.2180 mm, 68.8340 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(93.9800 mm, 68.8340 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(93.2180 mm, 71.1200 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(93.2180 mm, 70.3580 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(93.2180 mm, 71.1200 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(93.9800 mm, 71.1200 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(93.2180 mm, 70.3580 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(93.9800 mm, 70.3580 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(93.2180 mm, 70.3580 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(93.2180 mm, 69.5960 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(93.2180 mm, 67.3100 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(93.9800 mm, 67.3100 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(93.2180 mm, 69.5960 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(93.9800 mm, 69.5960 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(93.9800 mm, 70.3580 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(93.9800 mm, 71.1200 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(93.9800 mm, 70.3580 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(94.7420 mm, 70.3580 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(93.9800 mm, 70.3580 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(93.9800 mm, 69.5960 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(93.9800 mm, 67.3100 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(93.9800 mm, 68.0720 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(93.9800 mm, 67.3100 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(93.9800 mm, 66.5480 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(93.9800 mm, 67.3100 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(94.7420 mm, 67.3100 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(93.9800 mm, 68.8340 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(93.9800 mm, 68.0720 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(93.9800 mm, 68.8340 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(93.9800 mm, 69.5960 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(93.9800 mm, 68.8340 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(94.7420 mm, 68.8340 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(93.9800 mm, 68.0720 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(94.7420 mm, 68.0720 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(93.9800 mm, 71.1200 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(94.7420 mm, 71.1200 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(93.9800 mm, 69.5960 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(94.7420 mm, 69.5960 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(93.9800 mm, 66.5480 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(94.7420 mm, 66.5480 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(94.7420 mm, 68.8340 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(94.7420 mm, 69.5960 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(94.7420 mm, 68.8340 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(95.5040 mm, 68.8340 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(94.7420 mm, 68.8340 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(94.7420 mm, 68.0720 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(94.7420 mm, 66.5480 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(94.7420 mm, 67.3100 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(94.7420 mm, 66.5480 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(95.5040 mm, 66.5480 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(94.7420 mm, 69.5960 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(94.7420 mm, 70.3580 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(94.7420 mm, 69.5960 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(95.5040 mm, 69.5960 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(94.7420 mm, 70.3580 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(94.7420 mm, 71.1200 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(94.7420 mm, 70.3580 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(95.5040 mm, 70.3580 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(94.7420 mm, 67.3100 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(95.5040 mm, 67.3100 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(94.7420 mm, 67.3100 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(94.7420 mm, 68.0720 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(94.7420 mm, 71.1200 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(95.5040 mm, 71.1200 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(94.7420 mm, 68.0720 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(95.5040 mm, 68.0720 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(99.3140 mm, 71.1200 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(98.5520 mm, 71.1200 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(99.3140 mm, 71.1200 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(100.0760 mm, 71.1200 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(99.3140 mm, 71.1200 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(99.3140 mm, 70.3580 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(100.8380 mm, 71.1200 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(100.0760 mm, 71.1200 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(100.8380 mm, 71.1200 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 71.1200 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(100.8380 mm, 71.1200 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(100.8380 mm, 70.3580 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(101.6000 mm, 71.1200 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 70.3580 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(100.0760 mm, 71.1200 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(100.0760 mm, 70.3580 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(97.7900 mm, 71.1200 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(98.5520 mm, 71.1200 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(97.7900 mm, 71.1200 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(97.7900 mm, 70.3580 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(97.7900 mm, 71.1200 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(97.0280 mm, 71.1200 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(97.0280 mm, 71.1200 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(96.2660 mm, 71.1200 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(97.0280 mm, 71.1200 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(97.0280 mm, 70.3580 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(98.5520 mm, 71.1200 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(98.5520 mm, 70.3580 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(96.2660 mm, 71.1200 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(95.5040 mm, 71.1200 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(96.2660 mm, 71.1200 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(96.2660 mm, 70.3580 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(95.5040 mm, 71.1200 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(95.5040 mm, 70.3580 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(98.5520 mm, 70.3580 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(97.7900 mm, 70.3580 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(98.5520 mm, 70.3580 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(98.5520 mm, 69.5960 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(98.5520 mm, 70.3580 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(99.3140 mm, 70.3580 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(95.5040 mm, 70.3580 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(95.5040 mm, 69.5960 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(95.5040 mm, 70.3580 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(96.2660 mm, 70.3580 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(97.0280 mm, 70.3580 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(97.7900 mm, 70.3580 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(97.0280 mm, 70.3580 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(96.2660 mm, 70.3580 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(97.0280 mm, 70.3580 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(97.0280 mm, 69.5960 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(99.3140 mm, 70.3580 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(100.0760 mm, 70.3580 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(99.3140 mm, 70.3580 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(99.3140 mm, 69.5960 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(96.2660 mm, 70.3580 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(96.2660 mm, 69.5960 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(100.0760 mm, 70.3580 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(100.0760 mm, 69.5960 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(100.0760 mm, 70.3580 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(100.8380 mm, 70.3580 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(97.7900 mm, 70.3580 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(97.7900 mm, 69.5960 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(100.8380 mm, 70.3580 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(100.8380 mm, 69.5960 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(100.8380 mm, 70.3580 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 70.3580 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(101.6000 mm, 70.3580 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 69.5960 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(100.0760 mm, 69.5960 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(99.3140 mm, 69.5960 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(100.0760 mm, 69.5960 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(100.8380 mm, 69.5960 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(100.0760 mm, 69.5960 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(100.0760 mm, 68.8340 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(96.2660 mm, 69.5960 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(95.5040 mm, 69.5960 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(96.2660 mm, 69.5960 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(97.0280 mm, 69.5960 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(96.2660 mm, 69.5960 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(96.2660 mm, 68.8340 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(97.0280 mm, 69.5960 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(97.0280 mm, 68.8340 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(97.0280 mm, 69.5960 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(97.7900 mm, 69.5960 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(101.6000 mm, 69.5960 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(100.8380 mm, 69.5960 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(101.6000 mm, 69.5960 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 68.8340 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(95.5040 mm, 69.5960 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(95.5040 mm, 68.8340 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(100.8380 mm, 69.5960 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(100.8380 mm, 68.8340 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(99.3140 mm, 69.5960 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(98.5520 mm, 69.5960 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(99.3140 mm, 69.5960 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(99.3140 mm, 68.8340 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(98.5520 mm, 69.5960 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(98.5520 mm, 68.8340 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(98.5520 mm, 69.5960 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(97.7900 mm, 69.5960 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(97.7900 mm, 69.5960 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(97.7900 mm, 68.8340 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(98.5520 mm, 68.8340 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(99.3140 mm, 68.8340 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(98.5520 mm, 68.8340 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(98.5520 mm, 68.0720 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(98.5520 mm, 68.8340 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(97.7900 mm, 68.8340 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(97.7900 mm, 68.8340 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(97.0280 mm, 68.8340 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(97.7900 mm, 68.8340 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(97.7900 mm, 68.0720 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(100.8380 mm, 68.8340 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(100.0760 mm, 68.8340 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(100.8380 mm, 68.8340 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 68.8340 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(100.8380 mm, 68.8340 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(100.8380 mm, 68.0720 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(99.3140 mm, 68.8340 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(99.3140 mm, 68.0720 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(99.3140 mm, 68.8340 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(100.0760 mm, 68.8340 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(97.0280 mm, 68.8340 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(96.2660 mm, 68.8340 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(97.0280 mm, 68.8340 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(97.0280 mm, 68.0720 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(95.5040 mm, 68.8340 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(95.5040 mm, 68.0720 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(95.5040 mm, 68.8340 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(96.2660 mm, 68.8340 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(100.0760 mm, 68.8340 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(100.0760 mm, 68.0720 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(96.2660 mm, 68.8340 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(96.2660 mm, 68.0720 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(101.6000 mm, 68.8340 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 68.0720 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(100.8380 mm, 68.0720 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(100.0760 mm, 68.0720 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(100.8380 mm, 68.0720 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 68.0720 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(100.8380 mm, 68.0720 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(100.8380 mm, 67.3100 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(100.0760 mm, 68.0720 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(99.3140 mm, 68.0720 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(100.0760 mm, 68.0720 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(100.0760 mm, 67.3100 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(99.3140 mm, 68.0720 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(98.5520 mm, 68.0720 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(99.3140 mm, 68.0720 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(99.3140 mm, 67.3100 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(97.0280 mm, 68.0720 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(96.2660 mm, 68.0720 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(97.0280 mm, 68.0720 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(97.0280 mm, 67.3100 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(97.0280 mm, 68.0720 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(97.7900 mm, 68.0720 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(96.2660 mm, 68.0720 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(95.5040 mm, 68.0720 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(96.2660 mm, 68.0720 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(96.2660 mm, 67.3100 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(101.6000 mm, 68.0720 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 67.3100 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(95.5040 mm, 68.0720 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(95.5040 mm, 67.3100 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(98.5520 mm, 68.0720 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(97.7900 mm, 68.0720 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(98.5520 mm, 68.0720 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(98.5520 mm, 67.3100 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(97.7900 mm, 68.0720 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(97.7900 mm, 67.3100 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(100.8380 mm, 67.3100 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 67.3100 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(100.8380 mm, 67.3100 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(100.8380 mm, 66.5480 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(100.8380 mm, 67.3100 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(100.0760 mm, 67.3100 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(100.0760 mm, 67.3100 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(100.0760 mm, 66.5480 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(100.0760 mm, 67.3100 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(99.3140 mm, 67.3100 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(99.3140 mm, 67.3100 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(98.5520 mm, 67.3100 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(99.3140 mm, 67.3100 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(99.3140 mm, 66.5480 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(98.5520 mm, 67.3100 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(97.7900 mm, 67.3100 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(98.5520 mm, 67.3100 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(98.5520 mm, 66.5480 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(97.7900 mm, 67.3100 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(97.0280 mm, 67.3100 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(97.7900 mm, 67.3100 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(97.7900 mm, 66.5480 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(97.0280 mm, 67.3100 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(96.2660 mm, 67.3100 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(97.0280 mm, 67.3100 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(97.0280 mm, 66.5480 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(96.2660 mm, 67.3100 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(95.5040 mm, 67.3100 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(96.2660 mm, 67.3100 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(96.2660 mm, 66.5480 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(95.5040 mm, 67.3100 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(95.5040 mm, 66.5480 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(101.6000 mm, 67.3100 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(101.6000 mm, 66.5480 mm): Via [Moter_IN] on F.Cu - B.Cu
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.4995 mm; actual 0.4620 mm)
+    Rule: board setup constraints; Severity: error
+    @(101.6000 mm, 66.5480 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(100.8380 mm, 66.5480 mm): Via [Moter_IN] on F.Cu - B.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: 基板セットアップのハンダマスクの最小幅; Severity: error
+    @(63.3730 mm, 92.3290 mm): Polygon on F.Cu
+    @(93.9800 mm, 104.3880 mm): PTH pad 1 [Moter_OUT] of D5
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: 基板セットアップのハンダマスクの最小幅; Severity: error
+    @(63.3730 mm, 92.3290 mm): Polygon on F.Cu
+    @(86.3600 mm, 102.6980 mm): PTH pad 1 [Moter_OUT] of J11
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: 基板セットアップのハンダマスクの最小幅; Severity: error
+    @(63.3730 mm, 92.3290 mm): Polygon on F.Cu
+    @(102.0180 mm, 102.6980 mm): PTH pad 1 [Moter_OUT] of J12
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: 基板セットアップのハンダマスクの最小幅; Severity: error
+    @(63.3730 mm, 92.3290 mm): Polygon on F.Cu
+    @(125.4630 mm, 103.9300 mm): PTH pad 1 [Moter_OUT] of D3
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: 基板セットアップのハンダマスクの最小幅; Severity: error
+    @(63.3730 mm, 92.3290 mm): Polygon on F.Cu
+    @(117.8560 mm, 102.6980 mm): PTH pad 1 [Moter_OUT] of J13
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: 基板セットアップのハンダマスクの最小幅; Severity: error
+    @(63.3730 mm, 92.3290 mm): Polygon on F.Cu
+    @(109.0800 mm, 103.8860 mm): PTH pad 1 [Moter_OUT] of D9
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: 基板セットアップのハンダマスクの最小幅; Severity: error
+    @(63.3730 mm, 92.3290 mm): Polygon on F.Cu
+    @(133.6040 mm, 102.6980 mm): PTH pad 1 [Moter_OUT] of J14
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: 基板セットアップのハンダマスクの最小幅; Severity: error
+    @(63.3730 mm, 92.3290 mm): Polygon on F.Cu
+    @(141.0840 mm, 103.6760 mm): PTH pad 1 [Moter_OUT] of D4
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: 基板セットアップのハンダマスクの最小幅; Severity: error
+    @(63.3730 mm, 92.3290 mm): Polygon on F.Cu
+    @(66.8130 mm, 95.6550 mm): Pad 2 [Moter_OUT] of Q2 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: 基板セットアップのハンダマスクの最小幅; Severity: error
+    @(63.3730 mm, 92.3290 mm): Polygon on F.Cu
+    @(75.9450 mm, 95.6550 mm): Pad 2 [Moter_OUT] of Q1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: 基板セットアップのハンダマスクの最小幅; Severity: error
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+    @(64.5330 mm, 89.3550 mm): Pad 3 [GND] of Q2 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: 基板セットアップのハンダマスクの最小幅; Severity: error
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+    @(71.1200 mm, 84.4750 mm): PTH pad 2 [GND] of R12
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: 基板セットアップのハンダマスクの最小幅; Severity: error
+    @(70.3580 mm, 89.9160 mm): Polygon on F.Cu
+    @(73.6650 mm, 89.3550 mm): Pad 3 [GND] of Q1 on F.Cu
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: 基板セットアップのハンダマスクの最小幅; Severity: error
+    @(152.4000 mm, 70.4850 mm): Polygon on B.Cu
+    @(87.6300 mm, 69.6020 mm): PTH pad 1 [Moter_IN] of R11
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: 基板セットアップのハンダマスクの最小幅; Severity: error
+    @(152.4000 mm, 70.4850 mm): Polygon on B.Cu
+    @(95.6480 mm, 74.9300 mm): PTH pad 2 [Moter_IN] of J3
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: 基板セットアップのハンダマスクの最小幅; Severity: error
+    @(152.4000 mm, 70.4850 mm): Polygon on B.Cu
+    @(103.3780 mm, 69.6020 mm): PTH pad 1 [Moter_IN] of R2
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: 基板セットアップのハンダマスクの最小幅; Severity: error
+    @(152.4000 mm, 70.4850 mm): Polygon on B.Cu
+    @(79.9900 mm, 74.9300 mm): PTH pad 2 [Moter_IN] of J1
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: 基板セットアップのハンダマスクの最小幅; Severity: error
+    @(152.4000 mm, 70.4850 mm): Polygon on B.Cu
+    @(119.1260 mm, 69.3920 mm): PTH pad 1 [Moter_IN] of R3
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: 基板セットアップのハンダマスクの最小幅; Severity: error
+    @(152.4000 mm, 70.4850 mm): Polygon on B.Cu
+    @(127.2340 mm, 74.9300 mm): PTH pad 2 [Moter_IN] of J8
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: 基板セットアップのハンダマスクの最小幅; Severity: error
+    @(152.4000 mm, 70.4850 mm): Polygon on B.Cu
+    @(111.4860 mm, 74.9300 mm): PTH pad 2 [Moter_IN] of J7
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: 基板セットアップのハンダマスクの最小幅; Severity: error
+    @(152.4000 mm, 70.4850 mm): Polygon on B.Cu
+    @(142.9820 mm, 74.8060 mm): PTH pad 2 [Moter_IN] of J9
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: 基板セットアップのハンダマスクの最小幅; Severity: error
+    @(152.4000 mm, 70.4850 mm): Polygon on B.Cu
+    @(150.6020 mm, 69.3920 mm): PTH pad 1 [Moter_IN] of R4
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: 基板セットアップのハンダマスクの最小幅; Severity: error
+    @(152.4000 mm, 70.4850 mm): Polygon on B.Cu
+    @(134.8740 mm, 69.3920 mm): PTH pad 1 [Moter_IN] of R10
+
+** Found 17 unconnected pads **
+[unconnected_items]: Missing connection between items
+    Local override; Severity: error
+    @(94.7420 mm, 66.5480 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(95.5040 mm, 66.5480 mm): Via [Moter_IN] on F.Cu - B.Cu
+[unconnected_items]: Missing connection between items
+    Local override; Severity: error
+    @(93.9800 mm, 66.5480 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(94.7420 mm, 66.5480 mm): Via [Moter_IN] on F.Cu - B.Cu
+[unconnected_items]: Missing connection between items
+    Local override; Severity: error
+    @(93.2180 mm, 66.5480 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(93.9800 mm, 66.5480 mm): Via [Moter_IN] on F.Cu - B.Cu
+[unconnected_items]: Missing connection between items
+    Local override; Severity: error
+    @(92.4560 mm, 66.5480 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(93.2180 mm, 66.5480 mm): Via [Moter_IN] on F.Cu - B.Cu
+[unconnected_items]: Missing connection between items
+    Local override; Severity: error
+    @(91.6940 mm, 66.5480 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(92.4560 mm, 66.5480 mm): Via [Moter_IN] on F.Cu - B.Cu
+[unconnected_items]: Missing connection between items
+    Local override; Severity: error
+    @(89.4080 mm, 68.8340 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(89.4080 mm, 68.0720 mm): Via [Moter_IN] on F.Cu - B.Cu
+[unconnected_items]: Missing connection between items
+    Local override; Severity: error
+    @(93.2180 mm, 67.3100 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(93.9800 mm, 67.3100 mm): Via [Moter_IN] on F.Cu - B.Cu
+[unconnected_items]: Missing connection between items
+    Local override; Severity: error
+    @(94.7420 mm, 67.3100 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(93.9800 mm, 67.3100 mm): Via [Moter_IN] on F.Cu - B.Cu
+[unconnected_items]: Missing connection between items
+    Local override; Severity: error
+    @(93.2180 mm, 68.0720 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(93.2180 mm, 68.8340 mm): Via [Moter_IN] on F.Cu - B.Cu
+[unconnected_items]: Missing connection between items
+    Local override; Severity: error
+    @(92.4560 mm, 68.0720 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(92.4560 mm, 68.8340 mm): Via [Moter_IN] on F.Cu - B.Cu
+[unconnected_items]: Missing connection between items
+    Local override; Severity: error
+    @(93.2180 mm, 67.3100 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(92.4560 mm, 67.3100 mm): Via [Moter_IN] on F.Cu - B.Cu
+[unconnected_items]: Missing connection between items
+    Local override; Severity: error
+    @(91.6940 mm, 68.0720 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(91.6940 mm, 68.8340 mm): Via [Moter_IN] on F.Cu - B.Cu
+[unconnected_items]: Missing connection between items
+    Local override; Severity: error
+    @(92.4560 mm, 67.3100 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(91.6940 mm, 67.3100 mm): Via [Moter_IN] on F.Cu - B.Cu
+[unconnected_items]: Missing connection between items
+    Local override; Severity: error
+    @(90.9320 mm, 68.0720 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(90.9320 mm, 68.8340 mm): Via [Moter_IN] on F.Cu - B.Cu
+[unconnected_items]: Missing connection between items
+    Local override; Severity: error
+    @(90.9320 mm, 67.3100 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(90.9320 mm, 68.0720 mm): Via [Moter_IN] on F.Cu - B.Cu
+[unconnected_items]: Missing connection between items
+    Local override; Severity: error
+    @(90.1700 mm, 68.0720 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(90.1700 mm, 68.8340 mm): Via [Moter_IN] on F.Cu - B.Cu
+[unconnected_items]: Missing connection between items
+    Local override; Severity: error
+    @(90.9320 mm, 67.3100 mm): Via [Moter_IN] on F.Cu - B.Cu
+    @(90.1700 mm, 67.3100 mm): Via [Moter_IN] on F.Cu - B.Cu
+
+** Found 0 Footprint errors **
+
+** End of Report **

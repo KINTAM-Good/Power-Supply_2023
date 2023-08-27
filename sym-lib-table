@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Power_Supply-rescue")(type "KiCad")(uri "${KIPRJMOD}/Power_Supply-rescue.kicad_sym")(options "")(descr ""))
+)
